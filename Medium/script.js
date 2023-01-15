@@ -7,6 +7,3 @@ if (monthNumber < 1 || monthNumber > 12) {
   } else {
     console.log(`${months[monthNumber - 1]}`);
   }
-
-// const num = 3;
-// getMonth(num);
